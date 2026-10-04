@@ -1,6 +1,6 @@
 # Breast Cancer Classification: KNN vs CART vs ID3
 
-Lab project comparing three supervised classifiers on the **Breast Cancer Wisconsin (Diagnostic)** dataset to predict whether a tumor is **malignant** or **benign**.
+Lab Task comparing three supervised classifiers on the **Breast Cancer Wisconsin (Diagnostic)** dataset to predict whether a tumor is **malignant** or **benign**.
 
 Department of CSE, East West University.
 
